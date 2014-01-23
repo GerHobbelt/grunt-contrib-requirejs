@@ -78,6 +78,7 @@ requirejs: {
 
 ## Release History
 
+ * 2014-01-23   v0.4.1a  Added ability to use task files property
  * 2013-05-16   v0.4.1   Add 'done' option.
  * 2013-02-15   v0.4.0   First official release for Grunt 0.4.0.
  * 2013-01-23   v0.4.0rc7   Updating to work with grunt v0.4.0rc7.
@@ -90,5 +91,7 @@ requirejs: {
 ---
 
 Task submitted by [Tyler Kellen](http://goingslowly.com/)
+
+Many thanks to [@alexstrat](https://github.com/alexstrat) for his [pull request](https://github.com/gruntjs/grunt-contrib-requirejs/pull/20) to `grunt-contrib-requirejs`. That code lives on in this fork.
 
 *This file was generated on Thu Jan 02 2014 11:07:24.*
