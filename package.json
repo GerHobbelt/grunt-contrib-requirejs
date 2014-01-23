@@ -1,23 +1,20 @@
 {
   "name": "grunt-contrib-requirejs",
   "description": "Optimize RequireJS projects using r.js.",
-  "version": "0.4.1",
-  "homepage": "https://github.com/gruntjs/grunt-contrib-requirejs",
+  "version": "0.4.1a",
+  "homepage": "https://github.com/buildcom/grunt-contrib-requirejs",
   "author": {
-    "name": "Grunt Team",
-    "url": "http://gruntjs.com/"
+    "name": "Build Team",
+    "url": "http://build.com/"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/gruntjs/grunt-contrib-requirejs.git"
-  },
-  "bugs": {
-    "url": "https://github.com/gruntjs/grunt-contrib-requirejs/issues"
+    "url": "git://github.com/buildcom/grunt-contrib-requirejs.git"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/gruntjs/grunt-contrib-requirejs/blob/master/LICENSE-MIT"
+      "url": "https://github.com/buildcom/grunt-contrib-requirejs/blob/master/LICENSE-MIT"
     }
   ],
   "main": "Gruntfile.js",
