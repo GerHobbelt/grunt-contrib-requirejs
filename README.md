@@ -92,6 +92,6 @@ requirejs: {
 
 Task submitted by [Tyler Kellen](http://goingslowly.com/)
 
-Many thanks to @alexstrat for his [pull request](https://github.com/gruntjs/grunt-contrib-requirejs/pull/20) to `grunt-contrib-requirejs`. That code lives on in this fork.
+Many thanks to [@alexstrat](https://github.com/alexstrat) for his [pull request](https://github.com/gruntjs/grunt-contrib-requirejs/pull/20) to `grunt-contrib-requirejs`. That code lives on in this fork.
 
 *This file was generated on Thu Jan 02 2014 11:07:24.*
