@@ -27,7 +27,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "requirejs": ">=2.1.14"
+    "requirejs": "git://github.com/GerHobbelt/r.js.git#master"
   },
   "devDependencies": {
     "grunt-contrib-jshint": ">=0.10.0",

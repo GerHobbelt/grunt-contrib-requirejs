@@ -9,7 +9,7 @@
 module.exports = function(grunt) {
   'use strict';
 
-  var requirejs = require('requirejs');
+  var requirejs = require('r.js');
   var LOG_LEVEL_TRACE = 0, LOG_LEVEL_WARN = 2;
 
   // TODO: extend this to send build log to grunt.log.ok / grunt.log.error
